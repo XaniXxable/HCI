@@ -1,0 +1,112 @@
+<tr>
+<td class="time">0:09:26.73</td>
+<td class="marker marker-s">S </td>
+<td>Start of task 1.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:12:04.49</td>
+<td class="marker marker-e">E </td>
+<td>End of task 1.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:12:15.94</td>
+<td class="marker marker-s">S </td>
+<td>Start of task 2.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:12:40.41</td>
+<td class="marker marker-e">E </td>
+<td>End of task 2.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:12:56.39</td>
+<td class="marker marker-s">S </td>
+<td>Start of task 3.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:14:12.02</td>
+<td class="marker marker-p">P </td>
+<td>Positive observation.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:15:47.22</td>
+<td class="marker marker-h">H </td>
+<td>Facilitator helps user.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:15:48.44</td>
+<td class="marker marker-n">N </td>
+<td>Negative observation </td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:16:23.83</td>
+<td class="marker marker-e">E </td>
+<td>End of task 3.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:16:37.99</td>
+<td class="marker marker-s">S </td>
+<td>Start of task 4.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:17:38.49</td>
+<td class="marker marker-n">N </td>
+<td>Negative observation </td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:18:30.89</td>
+<td class="marker marker-h">H </td>
+<td>Facilitator helps user.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:21:7.18</td>
+<td class="marker marker-e">E </td>
+<td>End of task 4.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:21:43.05</td>
+<td class="marker marker-s">S </td>
+<td>Start of task 5.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:27:08.04</td>
+<td class="marker marker-h">H </td>
+<td>Facilitator helps user.</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="time">0:29:24.37</td>
+<td class="marker marker-e">E </td>
+<td>End of task 5.</td>
+<td>
+</td>
+</tr>
