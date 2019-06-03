@@ -1,9 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79b68a5-81b3-49de-8f89-6a4b3854331a" name="Default Changelist" comment="">
+    <list default="true" id="c79b68a5-81b3-49de-8f89-6a4b3854331a" name="Default Changelist" comment="Inserted Pros and Cons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n01-tp1-search-google.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n01-tp1-suche-google.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n02-tp1-cloth-size.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n02-tp1-kleidung-göße.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n03-tp1-selection.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n03-tp1-selektion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n04-tp1-contact-information.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n04-tp1-kontakt-informationen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n05-tp1-choose-shoes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n05-tp1-schuhe-auswählen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n05-tp5-choose-product.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n05-tp5-produkt-wählen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n06-tp1-choose-price.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n06-tp1-preis-wählen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n07-tp1-register.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n07-tp1-registrieren.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n07-tp5-register.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n07-tp5-registrieren.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/n08-tp1-not-much.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/n08-tp1-nicht-viel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p01-tp1-contact.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p01-tp1-kontakt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p02-tp1-searchbar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p02-tp1-suchleiste.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p03-tp1-color.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p03-tp1-farbe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p04-tp1-register.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p04-tp1-registrieren.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p05-tp1-picture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p05-tp1-bilder.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p06-tp1-paymethodes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p06-tp1-zahlungsmethoden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p10-tp5-subcategories.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p10-tp5-unterkategorieen.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ta-de.html" beforeDir="false" afterPath="$PROJECT_DIR$/ta-de.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n01-tp1-search-google.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n01-tp1-suche-google.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n02-tp1-cloth-size.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n02-tp1-kleidung-göße.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n03-tp1-selection.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n03-tp1-selektion.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n04-tp1-contact-information.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n04-tp1-kontakt-informationen.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n05-tp1-choose-shoes.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n05-tp1-schuhe-auswählen.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n05-tp5-choose-product.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n05-tp5-produkt-wählen.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n06-tp1-choose-price.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n06-tp1-preis-wählen.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n07-tp1-register.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n07-tp1-registrieren.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n07-tp5-register.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n07-tp5-registrieren.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/n08-tp1-not-much.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/n08-tp1-nicht-viel.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p01-tp1-contact.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p01-tp1-kontakt.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p02-tp1-searchbar.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p02-tp1-suchleiste.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p03-tp1-color.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p03-tp1-farbe.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p04-tp1-register.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p04-tp1-registrieren.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p05-tp1-picture.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p05-tp1-bilder.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p06-tp1-paymethodes.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p06-tp1-zahlungsmethoden.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/p10-tp5-subcategories.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/videos/p10-tp5-unterkategorieen.mp4" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+            <state relative-caret-position="204">
+              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -47,10 +81,63 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ta-de.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="523" column="213" selection-start-line="523" selection-start-column="213" selection-end-line="523" selection-end-column="213" />
+            <state relative-caret-position="170">
+              <caret line="1513" column="57" selection-start-line="1513" selection-start-column="57" selection-end-line="1513" selection-end-column="57" />
               <folding>
                 <element signature="n#section#0;n#article#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#61372#61377#0" expanded="true" />
+                <element signature="e#62803#62807#0" expanded="true" />
+                <element signature="e#64835#64839#0" expanded="true" />
+                <element signature="e#65699#65703#0" expanded="true" />
+                <element signature="e#67194#67198#0" expanded="true" />
+                <element signature="e#67900#67904#0" expanded="true" />
+                <element signature="e#82098#82104#0" expanded="true" />
+                <element signature="e#82125#82131#0" expanded="true" />
+                <element signature="e#82131#82137#0" expanded="true" />
+                <element signature="e#82155#82161#0" expanded="true" />
+                <element signature="e#82161#82167#0" expanded="true" />
+                <element signature="e#82255#82261#0" expanded="true" />
+                <element signature="e#83893#83899#0" expanded="true" />
+                <element signature="e#83899#83905#0" expanded="true" />
+                <element signature="e#83905#83911#0" expanded="true" />
+                <element signature="e#83937#83943#0" expanded="true" />
+                <element signature="e#83943#83949#0" expanded="true" />
+                <element signature="e#83966#83972#0" expanded="true" />
+                <element signature="e#84362#84368#0" expanded="true" />
+                <element signature="e#84386#84390#0" expanded="true" />
+                <element signature="e#84391#84397#0" expanded="true" />
+                <element signature="e#84397#84403#0" expanded="true" />
+                <element signature="e#84429#84435#0" expanded="true" />
+                <element signature="e#84435#84441#0" expanded="true" />
+                <element signature="e#84484#84490#0" expanded="true" />
+                <element signature="e#85230#85234#0" expanded="true" />
+                <element signature="e#86001#86005#0" expanded="true" />
+                <element signature="e#86806#86810#0" expanded="true" />
+                <element signature="e#88265#88270#0" expanded="true" />
+                <element signature="e#88954#88958#0" expanded="true" />
+                <element signature="e#91486#91490#0" expanded="true" />
+                <element signature="e#91934#91940#0" expanded="true" />
+                <element signature="e#91968#91974#0" expanded="true" />
+                <element signature="e#91974#91980#0" expanded="true" />
+                <element signature="e#91994#92000#0" expanded="true" />
+                <element signature="e#92000#92006#0" expanded="true" />
+                <element signature="e#92073#92079#0" expanded="true" />
+                <element signature="e#92079#92085#0" expanded="true" />
+                <element signature="e#92101#92107#0" expanded="true" />
+                <element signature="e#92107#92113#0" expanded="true" />
+                <element signature="e#92129#92135#0" expanded="true" />
+                <element signature="e#92135#92141#0" expanded="true" />
+                <element signature="e#92224#92230#0" expanded="true" />
+                <element signature="e#92230#92236#0" expanded="true" />
+                <element signature="e#92237#92243#0" expanded="true" />
+                <element signature="e#92439#92445#0" expanded="true" />
+                <element signature="e#92456#92460#0" expanded="true" />
+                <element signature="e#92467#92473#0" expanded="true" />
+                <element signature="e#92473#92479#0" expanded="true" />
+                <element signature="e#92493#92499#0" expanded="true" />
+                <element signature="e#92499#92505#0" expanded="true" />
+                <element signature="e#92505#92511#0" expanded="true" />
+                <element signature="n#thead#0;n#table#0;n#figure#0;n#section#2;n#section#7;n#article#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -63,6 +150,21 @@
       <find>figure</find>
       <find>Test</find>
     </findStrings>
+    <replaceStrings>
+      <replace>suche-google</replace>
+      <replace>kontakt-informationen</replace>
+      <replace>schuhe-asuwählen</replace>
+      <replace>schuhe-auswählen</replace>
+      <replace>produkt-wählen</replace>
+      <replace>preis-wählen</replace>
+      <replace>-registrieren</replace>
+      <replace>-nicht-viel</replace>
+      <replace>kontak</replace>
+      <replace>kontakt</replace>
+      <replace>Farbe</replace>
+      <replace>bilder</replace>
+      <replace>zahlungsmethoden</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -81,8 +183,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="255" />
-    <option name="y" value="-19" />
+    <option name="x" value="394" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -91,8 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +219,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +278,8 @@
       <workItem from="1559327032294" duration="581000" />
       <workItem from="1559327643293" duration="7311000" />
       <workItem from="1559335670381" duration="572000" />
-      <workItem from="1559336793892" duration="6590000" />
+      <workItem from="1559336793892" duration="11423000" />
+      <workItem from="1559583236484" duration="1927000" />
     </task>
     <task id="LOCAL-00001" summary="-Zusammenfassung">
       <created>1559332667883</created>
@@ -220,17 +323,46 @@
       <option name="project" value="LOCAL" />
       <updated>1559383542532</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3.5 Tesaufnahme gescchrieben">
+      <created>1559387231399</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559387231399</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inserted Pros and Cons">
+      <created>1559404189886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559404189886</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Replaced Header">
+      <created>1559404872797</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559404872797</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15436000" />
+    <option name="totallyTimeSpent" value="22196000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,15 +372,15 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49840087" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4968017" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,6 +421,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-Zusammenfassung" />
@@ -297,9 +443,26 @@
     <MESSAGE value="added movies" />
     <MESSAGE value="added thumbnails" />
     <MESSAGE value="hias videos blured" />
-    <option name="LAST_COMMIT_MESSAGE" value="hias videos blured" />
+    <MESSAGE value="3.5 Tesaufnahme gescchrieben" />
+    <MESSAGE value="Inserted Pros and Cons" />
+    <MESSAGE value="Replaced Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replaced Header" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/n05-tp3-Produktkategorieauswahl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/source/repos/csv_to_html/csv_to_html/negativ.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Pos und Neg list/CSV/negativ.csv" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -316,27 +479,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        <state relative-caret-position="204">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
         </state>
       </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/n05-tp3-Produktkategorieauswahl.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ta-de.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="523" column="213" selection-start-line="523" selection-start-column="213" selection-end-line="523" selection-end-column="213" />
+        <state relative-caret-position="170">
+          <caret line="1513" column="57" selection-start-line="1513" selection-start-column="57" selection-end-line="1513" selection-end-column="57" />
           <folding>
             <element signature="n#section#0;n#article#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#61372#61377#0" expanded="true" />
+            <element signature="e#62803#62807#0" expanded="true" />
+            <element signature="e#64835#64839#0" expanded="true" />
+            <element signature="e#65699#65703#0" expanded="true" />
+            <element signature="e#67194#67198#0" expanded="true" />
+            <element signature="e#67900#67904#0" expanded="true" />
+            <element signature="e#82098#82104#0" expanded="true" />
+            <element signature="e#82125#82131#0" expanded="true" />
+            <element signature="e#82131#82137#0" expanded="true" />
+            <element signature="e#82155#82161#0" expanded="true" />
+            <element signature="e#82161#82167#0" expanded="true" />
+            <element signature="e#82255#82261#0" expanded="true" />
+            <element signature="e#83893#83899#0" expanded="true" />
+            <element signature="e#83899#83905#0" expanded="true" />
+            <element signature="e#83905#83911#0" expanded="true" />
+            <element signature="e#83937#83943#0" expanded="true" />
+            <element signature="e#83943#83949#0" expanded="true" />
+            <element signature="e#83966#83972#0" expanded="true" />
+            <element signature="e#84362#84368#0" expanded="true" />
+            <element signature="e#84386#84390#0" expanded="true" />
+            <element signature="e#84391#84397#0" expanded="true" />
+            <element signature="e#84397#84403#0" expanded="true" />
+            <element signature="e#84429#84435#0" expanded="true" />
+            <element signature="e#84435#84441#0" expanded="true" />
+            <element signature="e#84484#84490#0" expanded="true" />
+            <element signature="e#85230#85234#0" expanded="true" />
+            <element signature="e#86001#86005#0" expanded="true" />
+            <element signature="e#86806#86810#0" expanded="true" />
+            <element signature="e#88265#88270#0" expanded="true" />
+            <element signature="e#88954#88958#0" expanded="true" />
+            <element signature="e#91486#91490#0" expanded="true" />
+            <element signature="e#91934#91940#0" expanded="true" />
+            <element signature="e#91968#91974#0" expanded="true" />
+            <element signature="e#91974#91980#0" expanded="true" />
+            <element signature="e#91994#92000#0" expanded="true" />
+            <element signature="e#92000#92006#0" expanded="true" />
+            <element signature="e#92073#92079#0" expanded="true" />
+            <element signature="e#92079#92085#0" expanded="true" />
+            <element signature="e#92101#92107#0" expanded="true" />
+            <element signature="e#92107#92113#0" expanded="true" />
+            <element signature="e#92129#92135#0" expanded="true" />
+            <element signature="e#92135#92141#0" expanded="true" />
+            <element signature="e#92224#92230#0" expanded="true" />
+            <element signature="e#92230#92236#0" expanded="true" />
+            <element signature="e#92237#92243#0" expanded="true" />
+            <element signature="e#92439#92445#0" expanded="true" />
+            <element signature="e#92456#92460#0" expanded="true" />
+            <element signature="e#92467#92473#0" expanded="true" />
+            <element signature="e#92473#92479#0" expanded="true" />
+            <element signature="e#92493#92499#0" expanded="true" />
+            <element signature="e#92499#92505#0" expanded="true" />
+            <element signature="e#92505#92511#0" expanded="true" />
+            <element signature="n#thead#0;n#table#0;n#figure#0;n#section#2;n#section#7;n#article#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
